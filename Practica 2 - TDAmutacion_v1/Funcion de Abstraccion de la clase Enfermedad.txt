@@ -1,0 +1,5 @@
+Invariante del tipo "enfermedad"
+
+name--> Nombre de la enfermedad. Se guarda en una variable de tipo "string"
+ID--> Identificador único para cada enfermedad. Se guarda en una variable de tipo "string"
+database--> Base de datos que provee el ID de la enfermedad. Se guarda en una variable de tipo "string"

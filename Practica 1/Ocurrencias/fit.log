@@ -1,0 +1,43 @@
+
+
+*******************************************************************************
+Sun Oct 16 12:08:35 2016
+
+
+FIT:    data read from 'ocurrencias.dat'
+        format = z
+        #datapoints = 20
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 6.19402e+10       delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 55650.8
+
+initial set of free parameter values
+
+a               = 1
+
+The maximum lambda = 1.000000e+20 was exceeded. Fit stopped.
+final sum of squares of residuals : 6.59161e-09
+rel. change during last iteration : 0
+
+degrees of freedom    (FIT_NDF)                        : 19
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 1.8626e-05
+variance of residuals (reduced chisquare) = WSSR/ndf   : 3.46927e-10
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+a               = 1.16022e-08      +/- 7.484e-11    (0.645%)
+
+
+correlation matrix of the fit parameters:
+
+               a      
+a               1.000 

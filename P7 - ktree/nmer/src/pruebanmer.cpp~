@@ -1,0 +1,7 @@
+#include <iostream>
+#include <string>
+#include <utility>
+#include "ktree.h"
+#include "Nmer.h"
+
+using namespace std;

@@ -1,0 +1,11 @@
+Invariante del tipo "mutacion"
+
+ID -->  identificador unico del SNP/mutacion. Se guarda en una variable de tipo "string"
+chr --> identificador del cromosoma. Se guarda en una variable de tipo "string"
+pos --> identificador de la posicion dentro del cromosoma. Se guarda en una variable de tipo "int"
+ref_alt --> base en el genoma de referencia y alternatica posible. Vector de tipo "float"
+genes --> genes asociados al SNP. Vector de tipo "string"
+common --> indica si el SNP es comun a la poblacion. Se guarda en una variable de tipo "bool"
+caf -->frecuencia de cada base del SNP en la poblacion .En primer lugar se indica la frecuencia de la base y despues la frecuencia de 		las bases alternativas. Vector de "float"
+enfermedades --> enfermedades asociadas al SNP. Vector de "enfermedad"
+clnsig --> relevancia clínica del SNP para cada enfermedad utilizando el codigo numerico del campo CLNSIG. Vector de "int"

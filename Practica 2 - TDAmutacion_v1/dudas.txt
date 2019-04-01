@@ -1,0 +1,6 @@
+ToString que hay que hacer
+
+como compilar el hxx
+
+Diseñar la función de abstracción e invariante de la representación del tipo enfermedad.
+Diseñar la función de abstracción e invariante de la representación del tipo mutación.

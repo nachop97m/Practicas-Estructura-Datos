@@ -1,0 +1,43 @@
+# depslib dependency file v1.0
+1485913270 source:/home/nachopine/ED/Practicas/P7/nmer/src/ejemploKtree.cpp
+	<iostream>
+	<string>
+	<queue>
+	<set>
+	<utility>
+	<random>
+	<chrono>
+	<cmath>
+	"ktree.h"
+	"Nmer.h"
+
+1481545490 /home/nachopine/ED/Practicas/P7/nmer/src/ktree.h
+	<queue>
+	<string>
+	<iostream>
+	"../src/ktree.hpp"
+	"../src/ktreeNode.hpp"
+
+1486082071 /home/nachopine/ED/Practicas/P7/nmer/src/ktree.hpp
+	<cassert>
+
+1485914364 /home/nachopine/ED/Practicas/P7/nmer/src/ktreeNode.hpp
+	<cassert>
+
+1486158521 /home/nachopine/ED/Practicas/P7/nmer/src/Nmer.h
+	"ktree.h"
+	<string>
+	<utility>
+	<stack>
+	<map>
+	<cstdlib>
+
+1486155706 source:/home/nachopine/ED/Practicas/P7/nmer/src/pruebanmer.cpp
+	<iostream>
+	<fstream>
+	"Nmer.h"
+
+1486158936 source:/home/nachopine/ED/Practicas/P7/nmer/src/Nmer.cpp
+	"Nmer.h"
+	<fstream>
+
